@@ -1,0 +1,5 @@
+numpy==1.21.2
+matplotlib==3.4.3
+scikit-image==0.18.3
+filterpy==1.4.5
+lapx==0.4.0
